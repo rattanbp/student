@@ -20,6 +20,7 @@ public class Student {
      */
     public String getName() {
         return name;
+        //compute and print the statement
     }
 
     /**
