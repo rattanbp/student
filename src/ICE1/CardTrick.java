@@ -26,6 +26,7 @@ public class CardTrick {
         System.out.println("Enter card and suit");
         int a = in.nextInt();
         String b =in.nextLine();
+         //Then report the result here
        
         for (int i=0; i<magicHand.length; i++)
         {
