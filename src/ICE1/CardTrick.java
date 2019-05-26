@@ -15,7 +15,7 @@ public class CardTrick {
     {
         Scanner in = new Scanner(System.in);
         Card[] magicHand = new Card[7];
-        
+        // and search magicHand here
         for (int i=0; i<magicHand.length; i++)
         {
             Card c = new Card();
